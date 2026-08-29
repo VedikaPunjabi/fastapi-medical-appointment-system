@@ -13,7 +13,7 @@ This repository contains a fully functional Medical Appointment System developed
 1. **Clone the repository:**
    
    ```bash
-   git clone [Your-GitHub-Link-Here]
+   git clone https://github.com/VedikaPunjabi/fastapi-medical-appointment-system.git
 
 3. **Set up Virtual Environment:**
    ```bash
